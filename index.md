@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-    <p><marquee>A website created by me, check out&nbsp;<a href="https://onedrive.live.com/?authkey=%21AC47mW%5F5eHRg6yU&cid=67DA9B3ED3CFA068&id=67DA9B3ED3CFA068%215810&parId=67DA9B3ED3CFA068%2112919&o=OneUp"target="_blank">my other website</a></marquee></p>
+    <p><marquee>A website created by me, check out [Link text Here](https://link-url-here.org)</marquee></p>
 </head>
         <body>
             <!--Image-->
