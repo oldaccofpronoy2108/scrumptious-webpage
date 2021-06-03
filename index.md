@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-    <p><marquee>A website created by me, check out [Link text Here](https://link-url-here.org)</marquee></p>
+    <p><marquee>A website created by me, check out [my other website](https://link-url-here.org)</marquee></p>
 </head>
         <body>
             <!--Image-->
